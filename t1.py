@@ -26,3 +26,4 @@ if option == 'हिंदी -> English':
    
   # displaying the translation
   st.write(res.convert)
+
