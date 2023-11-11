@@ -11,6 +11,6 @@ message = st.text_input("Enter the text to be translated from English to Hindi")
 res = EngtoHindi(message)
 
 # displaying the translation
-st.write("The translated text is:)
+st.write("The translated text is:")
 st.divider() 
 st.write(res.convert)
